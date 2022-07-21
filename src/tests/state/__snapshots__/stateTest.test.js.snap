@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`state snapshot 1`] = `
+<Fragment>
+  <ul
+    className="orderList"
+  >
+    <li
+      className="abc"
+      key="angular"
+    >
+      angular
+    </li>
+    <li
+      className="abc"
+      key="node"
+    >
+      node
+    </li>
+    <li
+      className="abc"
+      key="vew"
+    >
+      vew
+    </li>
+  </ul>
+  <div
+    className="sdsds"
+    key="angular"
+  >
+    hello
+  </div>
+</Fragment>
+`;
